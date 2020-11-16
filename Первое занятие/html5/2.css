@@ -1,0 +1,7 @@
+
+.test {
+    display:flex;
+    color:blue;
+    justify-content:space-evenly;
+    align-items: center;
+}
